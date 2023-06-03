@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "ALK";
+	src: url("../font/alk-life-webfont.woff2") format("woff2"),
+		/* Super Modern Browsers */ url("../font/alk-life-webfont.woff")
+			format("woff"),
+		/* Pretty Modern Browsers */ url("../font/alk-life-webfont.ttf")
+			format("truetype");
+}
+@font-face {
+	font-family: "Rubik";
+	src: url("../font/RubikPuddles-Regular.woff2") format("woff2"),
+		url("../font/RubikPuddles-Regular.ttf") format("ttf"),
+		url("../font/RubikPuddles-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
